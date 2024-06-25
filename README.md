@@ -32,7 +32,7 @@ DATE 2023
 
 ---
 
-3. **A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation **[paper](https://arxiv.org/abs/2304.13840) [code](https://github.com/99EnriqueD/verilog_autocompletion)
+3. **A Deep Learning Framework for Verilog Autocompletion Towards Design and Verification Automation** [paper](https://arxiv.org/abs/2304.13840) [code](https://github.com/99EnriqueD/verilog_autocompletion)
 
 _Enrique Dehaerne, Bappaditya Dey, Sandip Halder and Stefan De Gendt_
 
@@ -146,7 +146,7 @@ DAC 2024
 
 ---
 
-3. **Rtlfixer: Automatically fixing rtl syntax errors with large language models **[paper](https://arxiv.org/abs/2311.16543) [code](https://github.com/NVlabs/RTLFixer)
+3. **Rtlfixer: Automatically fixing rtl syntax errors with large language models** [paper](https://arxiv.org/abs/2311.16543) [code](https://github.com/NVlabs/RTLFixer)
 
 _Yun-Da Tsai, Mingjie Liu and Haoxing Ren_
 
