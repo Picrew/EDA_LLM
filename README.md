@@ -286,7 +286,7 @@ VTS 2024
 
 ---
 
-17. **The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models **[paper](https://arxiv.org/abs/2403.07257)
+17. **The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models** [paper](https://arxiv.org/abs/2403.07257)
 
 _Chen, Lei and Chen, Yiqi and Chu, Zhufei and Fang, Wenji and Ho, Tsung-Yi and Huang, Yu and Khan, Sadaf and Li, Min and Li, Xingquan and Liang, Yun and others_
 
