@@ -266,7 +266,7 @@ arXiv 2024
 
 ---
 
-15. **Towards LLM-Powered Verilog RTL Assistant: Self-Verification and Self-Correction** [paper]([Towards LLM-Powered Verilog RTL Assistant: Self-Verification and Self-Correction](https://arxiv.org/abs/2406.00115))
+15. **Towards LLM-Powered Verilog RTL Assistant: Self-Verification and Self-Correction** [paper](https://arxiv.org/abs/2406.00115)
 
 _Hanxian Huang, Zhenghan Lin, Zixuan Wang, Xin Chen, Ke Ding and Jishen Zhao_
 
