@@ -308,4 +308,4 @@ arXiv 2024
 
 ## Contact
 
-Email：junjieli_1@163.com or lij850601@gmail.commailto:lij850601@gmail.com
+Email：junjieli_1@163.com or lij850601@gmail.com
