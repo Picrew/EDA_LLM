@@ -296,6 +296,22 @@ arXiv 2024
 
 该论文倡导创建本质上是多模态的大型电路模型（LCMs），这些模型被设计用来解码和表达电路数据的丰富语义和结构，从而促进更加弹性、高效和创新的设计方法。采纳这种 AI 原生理念，预见到一个超越当前 EDA 创新高原的轨迹，引发电子设计方法论的深刻“左转”。所设想的进步不仅预示着现有 EDA 工具的演变，而且是一场革命，催生了新型的设计工具，这些工具承诺将从根本上提高设计生产力，并开启一个新的时代，在这个时代中，电路性能、功率和面积（PPA）的优化不是逐步实现的，而是通过重新定义电子系统能力的基准的飞跃来实现的。
 
+***
+
+18. **ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of** **Large Language Models** [paper](https://arxiv.org/abs/2406.18770)
+
+*Yuxuan Yin, Yu Wang, Boxun Xu and Peng* *Li*
+
+摘要：模拟电路设计需要大量人类专业知识参与，是设计生产率显著障碍。贝叶斯优化（BO）是一种流行的基于机器学习优化策略，在各种电路拓扑和技术中适用。传统BO方法采用黑箱高斯过程代理模型和优化的标记数据查询，通过在探索和开发中权衡找到优化解决方案。但在高维优化问题中，BO寻找最优设计解决方案的过程在计算和数据使用方面可能非常昂贵。该论文提出ADO-LMM，第一个将LLM和BO结合用于模拟设计优化工作，利用LLM注入领域知识（domain knowledge）能力来快速生成可行设计，弥补BO在寻找高价值设计区域的低效，同时在迭代BO过程中评估设计点采样为LLM提供高质量示范，利用广泛设计知识生成高质量设计点。此外BO探索多样性丰富LLM上下文理解，在设计空间中更广泛探索，避免重复和冗余。论文在两种不同类型模拟电路上评估所提出的框架，展示了设计效率和效果显著改进。
+
+***
+
+19. **LayoutCopilot: An LLM-powered Multi-agent Collaborative Framework for Interactive Analog Layout Design** [paper](https://arxiv.org/abs/2406.18873)
+
+*Bingyang Liu, Haoyi Zhang, Xiaohan Gao, Zichen Kong, Xiyuan Tang, Yibo Lin, Runsheng Wang and Ru Huang*
+
+摘要：模拟布局设计很大程度涉及人与工具之间互动过程，这些过程通常被设计为使用脚本命令或可视化按钮操作。这些交互式工具需要陡峭学习曲线和用户体验，成为设计工程师显著阻碍。该论文提出了LayoutCopilot一种由LLM驱动的开创性多代理协作框架（multi agent collaborative framework），用于交互式模拟布局。LayoutCopilot通过将自然语言指令转化为可执行的脚本命令，简化人机互动，将高层次设计意图解释为可操作建议，简化设计过程。论文实验结果表明LayoutCopilot在处理实际模拟设计时具有灵活性、高效性和易用性。
+
 ---
 
 ## References
